@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		124DB0AA282FD72000687EEA /* station1.png in Resources */ = {isa = PBXBuildFile; fileRef = 124DB0A9282FD72000687EEA /* station1.png */; };
 		BE245141266FBEE00038AD81 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE245140266FBEE00038AD81 /* AppDelegate.swift */; };
 		BE245143266FBEE00038AD81 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE245142266FBEE00038AD81 /* SceneDelegate.swift */; };
 		BE245145266FBEE00038AD81 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE245144266FBEE00038AD81 /* FirstViewController.swift */; };
@@ -41,6 +42,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		124DB0A9282FD72000687EEA /* station1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station1.png; path = ../../../../../Desktop/station1.png; sourceTree = "<group>"; };
 		BE24513D266FBEE00038AD81 /* ios-stations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-stations.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE245140266FBEE00038AD81 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BE245142266FBEE00038AD81 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 		BE245156266FBEE10038AD81 /* ios-stationsTests */ = {
 			isa = PBXGroup;
 			children = (
+				124DB0A9282FD72000687EEA /* station1.png */,
 				BE245157266FBEE10038AD81 /* ios_stationsTests.swift */,
 				BE245159266FBEE10038AD81 /* Info.plist */,
 			);
@@ -269,6 +272,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				124DB0AA282FD72000687EEA /* station1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
